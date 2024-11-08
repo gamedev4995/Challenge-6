@@ -48,9 +48,13 @@ Result:
 
 ### > Score On Death
 
+This script will take care of giving the player their points for each enemy they destroy by checking their life.
 
+___Note___: Remember to set an amount of points in unity; we used 25 points per enemy.
 
-___Note___: Remember to set an amount for their life health in unity; the norm is 100.
+Result: 
+
+[gif]
 
 ---
 
