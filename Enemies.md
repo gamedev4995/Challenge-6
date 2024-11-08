@@ -2,15 +2,13 @@
 
 To create our enemies, we simply duplicated our player character and removed the 'Player Input' component since these will be npc's (non playable characters). Since our enemies won't be shooting at the player in our game, we can go ahead and remove the empty object 'ShootPoint' as well.
 
-To work with our character easily, we made it into a Prefab variant by dragging the object into out Prefab folder and named it Enemy Variant. Once inside the object, click Add Component > New Script and we're adding three new scripts: Enemy, Forward Movement and Life.
+To work with our character easily, we made it into a Prefab variant by dragging the object into out Prefab folder and named it Enemy Variant. Once inside the object, click Add Component > New Script and we're adding four new scripts: Enemy, Forward Movement, Life and Score on Death.
 
 ## Scripts 
 
 ### > Enemy
 
-This script takes care of adding new enemies onto the map once called or removing them once the player succesfully destroys them.
-
-Code:
+This script takes care of adding new enemies onto the arena once called or removing them once the player succesfully destroys them.
 
 <img width="393" alt="Screenshot 2024-11-08 at 5 23 36 PM" src="https://github.com/user-attachments/assets/509e22a9-c958-43bb-ae01-9571477541dc">
 
@@ -23,8 +21,6 @@ Result:
 ### > Forward Movement
 
 This script will handle the speed at which the enemies will be moving at around the arena.
-
-Code:
 
 <img width="454" alt="Screenshot 2024-11-08 at 5 29 11 PM" src="https://github.com/user-attachments/assets/d4502d24-ad70-40b3-9235-16cd96c787c3">
 
@@ -40,8 +36,6 @@ Result:
 
 This script will handle the life of the enemy once the player shoots at it. It takes into account how much life each enemy has and once their life reaches 0, the enemy is finally destroyed.
 
-Code:
-
 <img width="306" alt="Screenshot 2024-11-08 at 5 26 41 PM" src="https://github.com/user-attachments/assets/f59c2cda-f754-4632-bff3-a44a1e07b646">
 
 
@@ -52,6 +46,11 @@ Result:
 
 [gif]
 
+### > Score On Death
+
+
+
+___Note___: Remember to set an amount for their life health in unity; the norm is 100.
 
 ---
 
