@@ -14,7 +14,7 @@ Lastly, we duplicated that floor and positioned it at a lower height beneath it.
 
 For the trigger to work, we added a box collider (Add Component > Physics > Box Collider)
 
-<img width="320" alt="Screenshot 2024-11-05 132207" src="https://github.com/user-attachments/assets/d532b58d-f705-495f-80f6-3f663a12d103">
+<img width="292" alt="Screenshot 2024-11-05 132207" src="https://github.com/user-attachments/assets/d532b58d-f705-495f-80f6-3f663a12d103">
 
 Checked the 'Is Trigger' box
 
