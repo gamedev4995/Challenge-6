@@ -1,4 +1,5 @@
-## Win and Lose Screens
+# Win and Lose Screens
+
 As the last part of our mini game, we had to make a win/lose mechanic. For this we wanted an orange sphere to represent a win and a red cube to represent a loss.
 
 We started off by creating each individual win/lose scene. When creating a new scene, we went to File > New Scene > Standard URP > Create.
