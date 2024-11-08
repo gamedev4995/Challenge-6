@@ -9,7 +9,7 @@ We created an empty object (GameObject > EmptyObject) and renamed it 'FloorManag
 
 In this script we added the following libraries and variables:
 
-<img width="500" alt="Screenshot 2024-11-07 143836" src="https://github.com/user-attachments/assets/b34ef31c-5300-4fb7-bf1f-4fe6a4a23bd8">
+<img width="600" alt="Screenshot 2024-11-07 143836" src="https://github.com/user-attachments/assets/b34ef31c-5300-4fb7-bf1f-4fe6a4a23bd8">
 
 Then we added the Singleton to prevent multiple instances of FloorManager.
 
@@ -29,7 +29,7 @@ Afterwards, we did a RemoveAllFloors() function to instantly remove all floors a
 
 Lastly, we added a RemoveRandomFloor() function to randomize the removal of the floor panels.
 
-<img width="500" alt="Screenshot 2024-11-08 154659" src="https://github.com/user-attachments/assets/13578bbb-c83f-4b3b-b9ef-86dfff8a665d">
+<img width="600" alt="Screenshot 2024-11-08 154659" src="https://github.com/user-attachments/assets/13578bbb-c83f-4b3b-b9ef-86dfff8a665d">
 
 _Note:_ These are the functions that are called in the wall detection scripts.
 
