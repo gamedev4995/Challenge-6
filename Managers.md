@@ -1,4 +1,26 @@
+# Managers
+
+Game managers help with the development of the game and keep track of its components.
+
+---
+
 ## Enemy Manager
+
+The enemy manager will keep track of the enemy list that appear in the arena. We created an empty object (GameObject > EmptyObject) and renamed it 'EnemyManager'. To this empty object, we added a new script by going to Add Component > New Script and named it 'EnemyManager' as well.
+
+In the script we added these variables and libraries:
+
+<img width="657" alt="Screenshot 2024-11-08 at 6 30 49 PM" src="https://github.com/user-attachments/assets/86ac78da-efeb-4a30-983c-eb80fdd69522">
+
+We then added AddEnemy and RemoveEnemy so that it manages the list.
+
+<img width="297" alt="Screenshot 2024-11-08 at 6 36 02 PM" src="https://github.com/user-attachments/assets/ae3c7e93-1882-424e-86c6-895762c74c10">
+
+To finish the script, we added an Awake so that it takes into consideration if there is a duplicated instance.
+
+<img width="655" alt="Screenshot 2024-11-08 at 6 36 26 PM" src="https://github.com/user-attachments/assets/199a132e-5d0b-4e19-85c1-f29ff66a0e4f">
+
+---
 
 ## Floor Manager
 This manager will keep track of the floor list with each panel as well as their initialization and deletion.
