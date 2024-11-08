@@ -38,5 +38,7 @@ Back in Unity, be sure to drag the parent object containing the floor panels int
 <img width="290" alt="Screenshot 2024-11-08 161108" src="https://github.com/user-attachments/assets/b7a6d15c-ebdc-487b-9d2f-35e6e8197276">
 
 Result:
-[gif]
+
+![floorManagerVid-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2c40b4ce-8c22-46d0-b310-f8224797dbe8)
+
 
