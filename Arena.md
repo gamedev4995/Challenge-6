@@ -1,6 +1,6 @@
 ## Base
 For the mini game area, we first started off by making a template to later create the arena. 
-This template/base can be done in multiple ways, but in our case, we first formed a large square with four semi-thin walls by using cubes (GameObject > Cube) and shaping them into rectangles.
+This template/base can be done in multiple ways, but in our case, we first formed a large square with four semi-thin walls by using cubes (GameObject > 3D Object > Cube) and shaping them into rectangles.
 
 <img width="292" alt="Screenshot 2024-11-07 141509" src="https://github.com/user-attachments/assets/f836ae95-68ca-44e5-9c6c-08479f9a7002">
 
@@ -8,7 +8,15 @@ Then we took another cube, flattened it, and made it large enough to be placed b
 
 <img width="292" alt="Screenshot 2024-11-08 144655" src="https://github.com/user-attachments/assets/3008ef2f-f6fd-48bb-96fe-1d78f5010141">
 
-Lastly, we duplicated that floor and positioned it at a lower height beneath it. This will serve as a trigger for a future purpose.
+For this object, we added a new layer (Inspector Tab > Layer (Default) > Add Layer)
+
+<img width="292" alt="Screenshot 2024-11-08 161804" src="https://github.com/user-attachments/assets/ceba1b50-8744-445b-af19-cb6f829fe5d6">
+
+Then in the matrix found in Edit > Project Settings > Physics, we unchecked the box linking the base and player.
+
+<img width="292" alt="Screenshot 2024-11-05 144705" src="https://github.com/user-attachments/assets/2df5c85a-b35f-47f7-b7c0-57fe30287cfa">
+
+Then we duplicated that floor and positioned it at a lower height beneath it. This will serve as a trigger for a future purpose.
 
 <img width="320" alt="Screenshot 2024-11-07 201944" src="https://github.com/user-attachments/assets/d0d8885e-ce60-49a7-a624-4f4929250c93">
 
@@ -20,7 +28,7 @@ Checked the 'Is Trigger' box
 
 <img width="320" alt="Screenshot 2024-11-08 145159" src="https://github.com/user-attachments/assets/1b8ba85d-0e5b-4fbd-8d4b-76778a191012">
 
-Added a layer (Inspector Tab > Layer (Default) > Add Layer)
+Added a layer 
 
 <img width="320" alt="Screenshot 2024-11-08 150030" src="https://github.com/user-attachments/assets/954bee1d-9034-4c69-9c7d-2b8372df4e4c">
 
