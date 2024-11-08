@@ -25,7 +25,7 @@ To finish the script, we added an Awake so that it takes into consideration if t
 ## Floor Manager
 This manager will keep track of the floor list with each panel as well as their initialization and deletion.
 
-We created an empty object (GameObject > EmptyObject) and renamed it 'FloorManager' where we added a new script (Add Component > New Script) called 'floorManager'.
+We created an empty object (GameObject > Create Empty) and renamed it 'FloorManager' where we added a new script (Add Component > New Script) called 'floorManager'.
 
 <img width="220" alt="Screenshot 2024-11-08 153755" src="https://github.com/user-attachments/assets/4ab2ba4b-e1a4-471a-bcfb-8aba40d75ca0">
 
@@ -77,5 +77,15 @@ Result:
 
 ## Score Manager
 
+Score manager is simple enough. Just like the others, we created an empty object (GameObject > Create Empty) and renamed it as 'ScoreManager' in which we added a new script with the same name.
 
+In the script, we used the following libraries and variable:
+
+<img width="500" alt="Screenshot 2024-11-08 194122" src="https://github.com/user-attachments/assets/b71c06e3-419a-48fa-a3c8-94fd90bf7c0d">
+
+Then we added the singleton to avoid the repetition of instances.
+
+<img width="500" alt="Screenshot 2024-11-08 194131" src="https://github.com/user-attachments/assets/27d2670f-c42d-4697-a542-9a2f07e6254d">
+
+In Unity, the score will be visible as each enemy is eliminated.
 
