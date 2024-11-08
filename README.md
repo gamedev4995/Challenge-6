@@ -6,7 +6,7 @@ For this challenge, we created a mini game where the player is tasked to destroy
 
 Due to the lengthy project, we decided to divided the proyect into seperate files for easier navigation and access! You can also click each link down below for a quick look:
 
-[Arena](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Arena.md) aqui va floors/walls/base
+[Arena](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Arena.md) 
 
 [Player](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Player.md)
 
