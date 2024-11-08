@@ -23,7 +23,11 @@ Then we took the same steps in creating a new material but this time we chose a 
 
 [pic]
 
-After creating each scene, [menu part goes here...]
+Since we want our scenes to be included into the game once the player wins or loses, we added them by going to File > build settings and then dragging our lose and win scenes into the box.
+
+
+<img width="637" alt="Screenshot 2024-11-08 at 5 43 27 PM" src="https://github.com/user-attachments/assets/6559246d-8d8c-44b2-9690-c41ca11b626b">
+
 
 As a last step to our win/lose mechanic, we had to create a new script to establish the win/lose conditions.
 
