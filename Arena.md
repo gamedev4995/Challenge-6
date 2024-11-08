@@ -10,11 +10,11 @@ Then we took another cube, flattened it, and made it large enough to be placed b
 
 For this object, we added a new layer (Inspector Tab > Layer (Default) > Add Layer)
 
-<img width="292" alt="Screenshot 2024-11-08 161804" src="https://github.com/user-attachments/assets/ceba1b50-8744-445b-af19-cb6f829fe5d6">
+<img width="300" alt="Screenshot 2024-11-08 161804" src="https://github.com/user-attachments/assets/ceba1b50-8744-445b-af19-cb6f829fe5d6">
 
 Then in the matrix found in Edit > Project Settings > Physics, we unchecked the box linking the base and player.
 
-<img width="292" alt="Screenshot 2024-11-05 144705" src="https://github.com/user-attachments/assets/2df5c85a-b35f-47f7-b7c0-57fe30287cfa">
+<img width="400" alt="Screenshot 2024-11-05 144705" src="https://github.com/user-attachments/assets/2df5c85a-b35f-47f7-b7c0-57fe30287cfa">
 
 Then we duplicated that floor and positioned it at a lower height beneath it. This will serve as a trigger for a future purpose.
 
