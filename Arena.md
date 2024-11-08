@@ -10,19 +10,19 @@ Then we took another cube, flattened it, and made it large enough to be placed b
 
 Lastly, we duplicated that floor and positioned it at a lower height beneath it. This will serve as a trigger for a future purpose.
 
-<img width="292" alt="Screenshot 2024-11-07 201944" src="https://github.com/user-attachments/assets/d0d8885e-ce60-49a7-a624-4f4929250c93">
+<img width="320" alt="Screenshot 2024-11-07 201944" src="https://github.com/user-attachments/assets/d0d8885e-ce60-49a7-a624-4f4929250c93">
 
 For the trigger to work, we added a box collider (Add Component > Physics > Box Collider)
 
-<img width="292" alt="Screenshot 2024-11-05 132207" src="https://github.com/user-attachments/assets/d532b58d-f705-495f-80f6-3f663a12d103">
+<img width="320" alt="Screenshot 2024-11-05 132207" src="https://github.com/user-attachments/assets/d532b58d-f705-495f-80f6-3f663a12d103">
 
 Checked the 'Is Trigger' box
 
-<img width="292" alt="Screenshot 2024-11-08 145159" src="https://github.com/user-attachments/assets/1b8ba85d-0e5b-4fbd-8d4b-76778a191012">
+<img width="320" alt="Screenshot 2024-11-08 145159" src="https://github.com/user-attachments/assets/1b8ba85d-0e5b-4fbd-8d4b-76778a191012">
 
 Added a layer (Inspector Tab > Layer (Default) > Add Layer)
 
-<img width="292" alt="Screenshot 2024-11-08 150030" src="https://github.com/user-attachments/assets/954bee1d-9034-4c69-9c7d-2b8372df4e4c">
+<img width="320" alt="Screenshot 2024-11-08 150030" src="https://github.com/user-attachments/assets/954bee1d-9034-4c69-9c7d-2b8372df4e4c">
 
 ## Arena
 With this template we proceeded to begin creating the arena. 
