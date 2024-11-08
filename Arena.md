@@ -10,7 +10,7 @@ Then we took another cube, flattened it, and made it large enough to be placed b
 
 For this object, we added a new layer (Inspector Tab > Layer (Default) > Add Layer)
 
-<img width="300" alt="Screenshot 2024-11-08 161804" src="https://github.com/user-attachments/assets/ceba1b50-8744-445b-af19-cb6f829fe5d6">
+<img width="320" alt="Screenshot 2024-11-08 161804" src="https://github.com/user-attachments/assets/ceba1b50-8744-445b-af19-cb6f829fe5d6">
 
 Then in the matrix found in Edit > Project Settings > Physics, we unchecked the box linking the base and player.
 
