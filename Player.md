@@ -1,3 +1,5 @@
+# Player 
+
 ## Rigid Body
 
 We first start off by adding a Rigidbody component to our character. The Rigidbody will allow physic properties to our character like gravity, collisions, and other physical interactions.
