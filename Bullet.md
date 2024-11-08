@@ -1,8 +1,28 @@
 # Bullet Prefab
 
+For the bullet, we first created a sphere (GameObject > 3D Object > Sphere) and scaled it down to a small size.
+
+<img width="300" alt="Screenshot 2024-10-04 134242" src="https://github.com/user-attachments/assets/acaf376c-14b3-4ffa-83da-45480abd67a4">
+
+Then we created a new material by right clicking > Create > Material in the assets area or by clicking the ‘+’ symbol > Material.
+
+<img width="385" alt="Screenshot 2024-10-04 133959" src="https://github.com/user-attachments/assets/0f89feb3-595c-4d58-b969-8d4ed8ec6944">
+
+In the inspector tab of the material, within 'Surface Inputs', we changed the 'Base Map' to our choice of color and added an emission for a glowing effect. 
+
+<img width="300" alt="Screenshot 2024-10-04 134147" src="https://github.com/user-attachments/assets/f2be6b3f-7f4f-41d3-a2ce-977a74201218">
+
+Then we dragged the material onto the sphere previously created. 
+
+<img width="300" alt="Screenshot 2024-10-04 134252" src="https://github.com/user-attachments/assets/31d19f82-db86-46df-97ff-50adc5713589">
+
+With the bullet’s look completed, we turned it into a prefab by dragging the object from the Hierarchy tab onto a prefab folder.
+
+---
+
 ## Contact Damager
 
-This script will ensure that when you hit an enemy, it takes away health each time a bullet hits them.
+To start off with the bullet's scripts, we Add Component > New Script and named it Contact Damager. This script will ensure that when you hit an enemy, it takes away health each time a bullet hits them and ultimately causing them to be destroyed.
 
 <img width="440" alt="Screenshot 2024-11-08 at 7 41 53 PM" src="https://github.com/user-attachments/assets/e2dc81eb-d507-4460-8f63-361d15ad779a"> 
 
