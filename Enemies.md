@@ -39,6 +39,6 @@ ___Note___: Remember to set an amount for their life health in unity; the norm i
 
 ## Empty objects 
 
-deberiamos incluir el empty object de AI de enemies ? i don't think que sea necesario ya que el enemy no esta chasing el player if im understanding right 
+deberiamos incluir el empty object de AI de enemies ? i don't think que sea necesario ya que el enemy no esta chasing el player if im understanding right el role de enemies en el arena
  > Amanda
 
