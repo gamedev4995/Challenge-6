@@ -5,7 +5,7 @@ This manager will keep track of the floor list with each panel as well as their 
 
 We created an empty object (GameObject > EmptyObject) and renamed it 'FloorManager' where we added a new script (Add Component > New Script) called 'floorManager'.
 
-<img width="180" alt="Screenshot 2024-11-08 153755" src="https://github.com/user-attachments/assets/4ab2ba4b-e1a4-471a-bcfb-8aba40d75ca0">
+<img width="220" alt="Screenshot 2024-11-08 153755" src="https://github.com/user-attachments/assets/4ab2ba4b-e1a4-471a-bcfb-8aba40d75ca0">
 
 In this script we added the following libraries and variables:
 
