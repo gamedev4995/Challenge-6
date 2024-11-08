@@ -1,7 +1,16 @@
-## Bullet Prefab
+# Bullet Prefab
 
-## Scripts
-[other scripts]
+## Contact Damager
+
+This script will ensure that when you hit an enemy, it takes away health each time a bullet hits them.
+
+<img width="440" alt="Screenshot 2024-11-08 at 7 41 53 PM" src="https://github.com/user-attachments/assets/e2dc81eb-d507-4460-8f63-361d15ad779a"> 
+
+___Note:___ Make sure to add a damage value in unity; we used 10.
+
+---
+
+## [other scripts]
 
 We added two more scripts dedicated to the detection of walls for our game mechanics, one for the corner walls and the other for the regular walls.
 
