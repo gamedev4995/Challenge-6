@@ -63,4 +63,19 @@ Result:
 
 ![floorManagerVid-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2c40b4ce-8c22-46d0-b310-f8224797dbe8)
 
+---
+
+## Rain Manager
+
+
+---
+
+## Wave Manager
+
+
+---
+
+## Score Manager
+
+
 
