@@ -8,11 +8,17 @@ To work with our character easily, we made it into a Prefab variant by dragging 
 
 ### > Enemy
 
-This script takes care of adding new enemies or removing them onto the map once called.
+This script takes care of adding new enemies onto the map once called or removing them once the player succesfully destroys them.
 
 Code:
 
 <img width="393" alt="Screenshot 2024-11-08 at 5 23 36 PM" src="https://github.com/user-attachments/assets/509e22a9-c958-43bb-ae01-9571477541dc">
+
+
+Result: 
+
+[gif]
+
 
 ### > Forward Movement
 
@@ -24,6 +30,12 @@ Code:
 
 ___Note___: Remember to set their speed in unity to your preference depending on how fast you want them to go.
 
+
+Result: 
+
+[gif]
+
+
 ### > Life
 
 This script will handle the life of the enemy once the player shoots at it. It takes into account how much life each enemy has and once their life reaches 0, the enemy is finally destroyed.
@@ -34,6 +46,12 @@ Code:
 
 
 ___Note___: Remember to set an amount for their life health in unity; the norm is 100.
+
+
+Result: 
+
+[gif]
+
 
 ---
 
