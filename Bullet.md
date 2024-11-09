@@ -63,7 +63,7 @@ For the corner walls we first added the following:
 
 <img width="600" alt="Screenshot 2024-11-07 143626" src="https://github.com/user-attachments/assets/256dd357-9e4e-4862-a4e8-c333451c0448">
 
-_Note:_ Make sure that the argument in NameToLayer is written the same as the layer previously created and added to the corner walls.
+___Note:___ Make sure that the argument in NameToLayer is written the same as the layer previously created and added to the corner walls.
 
 Additionally, we concluded the script by calling a function from a floor manager script mentioned later on.
 
