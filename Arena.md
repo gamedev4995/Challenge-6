@@ -1,4 +1,4 @@
-## Base
+# Base
 For the mini game area, we first started off by making a template to later create the arena. 
 This template/base can be done in multiple ways, but in our case, we first formed a large square with four semi-thin walls by using cubes (GameObject > 3D Object > Cube) and shaping them into rectangles.
 
@@ -32,11 +32,11 @@ Added a layer.
 
 <img width="320" alt="Screenshot 2024-11-08 150030" src="https://github.com/user-attachments/assets/954bee1d-9034-4c69-9c7d-2b8372df4e4c">
 
-## Arena
+# Arena
 With this template we proceeded to begin creating the arena. 
 ___Note:___ the following models come from the Sci-fi Styled Modular Pack that is free to download from the asset store.
 
-### Floor
+## Floor
 Starting off with the floor, we grabbed the floor_5 model from the Sci-fi pack and scaled it roughly to the size we wanted.
 
 <img width="292" alt="Screenshot 2024-11-07 142630" src="https://github.com/user-attachments/assets/7f5449c4-27f2-45f2-946d-dfd9cb6cb82d">
@@ -47,7 +47,7 @@ We then proceeded to duplicate this floor panel and placed them side by side unt
 
 <img width="292" alt="Screenshot 2024-11-07 142728" src="https://github.com/user-attachments/assets/f35c467b-6f85-404c-9b8a-86072d873610">
 
-### Walls:
+## Walls:
 Next, we placed a corner wall from our asset (model: window_big_corner_plug), positioned it on one of the corners of the floor and scaled it to our preferred size.
 
 <img width="292" alt="Screenshot 2024-11-07 142835" src="https://github.com/user-attachments/assets/e26e93d8-0ce6-4855-8da7-1b4325118647">
@@ -72,7 +72,7 @@ With this, we duplicated that empty object called 'Wall 1' and proceeded to plac
 
 <img width="292" alt="Screenshot 2024-11-07 143117" src="https://github.com/user-attachments/assets/59c8f67a-5e21-41d8-ad4f-a52127735229">
 
-## Result:
+# Result:
 
 <img width="292" alt="Screenshot 2024-11-07 143140" src="https://github.com/user-attachments/assets/b4442b64-aa71-4f53-884d-8729fe309498">
 
