@@ -36,7 +36,9 @@ Create three more float variables for the x, y and z coordinates and a Vector3 v
 
 Inside the start function add an InvokeReapeating function to call what will be our "Rain" Function.
 
-Create the Rain function after the Start function, where we will use Random.Range to calculate a random number withing our specified range that will serve as the x or y coordinate. 
+Create the Rain function after the Start function, where we will use Random. Range to calculate a random number withing our specified range that will serve as the x or y coordinate. 
+
+<img width="600" alt="Screenshot 2024-11-08 at 8 03 05 PM" src="https://github.com/user-attachments/assets/677cc53a-0617-4bbf-97b9-5ff7cb7c7bbd">
 
 
 Next inside the scrip folder in your project create a new script called "Raindrop." This is where we will adjust the raindrops behavior. Click on the scrip to open it in your VS Code. 
