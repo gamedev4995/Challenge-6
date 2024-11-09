@@ -19,3 +19,11 @@ Due to the lengthy project, we decided to divided the proyect into seperate file
 [Managers](Managers.md)
 
 [Win or Lose](WinLose.md)
+
+--- 
+
+### Final Result:
+
+![Untitled-ezgif com-crop-video](https://github.com/user-attachments/assets/0e087b29-f4a4-4018-a96f-79d358cefb2a)
+
+
