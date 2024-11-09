@@ -2,6 +2,8 @@
 
 As the last part of our mini game, we had to make a win/lose mechanic. For this we wanted an orange sphere to represent a win and a red cube to represent a loss.
 
+## Scenes
+
 We started off by creating each individual win/lose scene. When creating a new scene, we went to File > New Scene > Standard URP > Create.
 
 We made sure to name our first scene, 'WinScreen' and proceeded to add a sphere.
@@ -20,7 +22,6 @@ We then added a text from Game Object > 3D Object > Text and changed it to read 
 
 <img width="300" alt="Screenshot 2024-11-08 at 10 27 22 PM" src="https://github.com/user-attachments/assets/640ca951-a153-403c-9c5c-ef2374d96853">
 
-
 For the other scene, we named it 'LoseScreen' and proceeded to add a cube.
 
 <img width="292" alt="Screenshot 2024-11-08 191408" src="https://github.com/user-attachments/assets/8cc2c6b0-234c-4f07-9979-d5c59587c8ed">
@@ -33,10 +34,11 @@ For the text, we added a new text in Game Object > 3D Object > Text and changed 
 
 <img width="300" alt="Screenshot 2024-11-08 at 10 23 27 PM" src="https://github.com/user-attachments/assets/f9702dda-f3ca-4f85-813e-12de20e621ad">
 
-
 Since we want our scenes to be included into the game once the player wins or loses, we added them by going to File > build settings and then dragging our lose and win scenes into the box.
 
 <img width="637" alt="Screenshot 2024-11-08 at 5 43 27 PM" src="https://github.com/user-attachments/assets/6559246d-8d8c-44b2-9690-c41ca11b626b">
+
+## Script
 
 As a last step to our win/lose mechanic, we had to create a new script to establish the win/lose conditions.
 
