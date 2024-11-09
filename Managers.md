@@ -12,7 +12,7 @@ In the script we added these variables and libraries:
 
 <img width="657" alt="Screenshot 2024-11-08 at 6 30 49 PM" src="https://github.com/user-attachments/assets/86ac78da-efeb-4a30-983c-eb80fdd69522">
 
-We then added AddEnemy and RemoveEnemy so that it manages the list.
+We then added AddEnemy and RemoveEnemy so that it manages the enemy list.
 
 <img width="297" alt="Screenshot 2024-11-08 at 6 36 02 PM" src="https://github.com/user-attachments/assets/ae3c7e93-1882-424e-86c6-895762c74c10">
 
@@ -71,6 +71,20 @@ Result:
 ---
 
 ## Wave Manager
+
+For the wave manager, we created another empty object by going to GameObject > Create Empty and renamed it as 'WaveManager' to which we added a new script to it calling it 'WaveManager' as well.
+
+In the script, we used the following libraries and variables:
+
+<img width="484" alt="Screenshot 2024-11-08 at 8 26 35 PM" src="https://github.com/user-attachments/assets/29dd7973-77bd-4663-b188-eafe9d6c7bf7">
+
+Next we added Add and Remove wave so that it manages the wave list.
+
+<img width="298" alt="Screenshot 2024-11-08 at 8 27 02 PM" src="https://github.com/user-attachments/assets/ca24294e-dadf-43c4-beb0-fa75729aab99">
+
+To finish up, we added an Awake so that it takes into consideration if there is a duplicated instance.
+
+<img width="482" alt="Screenshot 2024-11-08 at 8 27 56 PM" src="https://github.com/user-attachments/assets/9dbf283c-3447-4b4e-95df-f9576b8c365b">
 
 
 ---
