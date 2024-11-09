@@ -34,14 +34,28 @@ Create three more float variables for the x, y and z coordinates and a Vector3 v
 
 <img width="600" alt="Screenshot 2024-11-08 at 7 39 53 PM" src="https://github.com/user-attachments/assets/c4f08e4f-08cb-412e-bbc4-4e8b70a24dad">
 
-Inside the start function add an InvokeReapeating function to call what will be our "Rain" Function.
+Inside the start function add "this" spawner to the RainManager's list of active waves and add an InvokeReapeating function to call what will be our "Rain" Function.
 
-Create the Rain function after the Start function, where we will use Random. Range to calculate a random number withing our specified range that will serve as the x or y coordinate. 
+Create the Rain function after the Start function, where we will use Random.Range to calculate a random number withing our specified range for our x and y coordinate. The assign this value to a new Vector3 position for the raindrop spawn. Set the spawners position and finally instantiate the raindrop at that position.
 
 <img width="600" alt="Screenshot 2024-11-08 at 8 03 05 PM" src="https://github.com/user-attachments/assets/677cc53a-0617-4bbf-97b9-5ff7cb7c7bbd">
 
+In your project duplicate the spanwner several times to have various raindrops fall at the same time.
 
-Next inside the scrip folder in your project create a new script called "Raindrop." This is where we will adjust the raindrops behavior. Click on the scrip to open it in your VS Code. 
+Next inside the scrip folder in your project create a new script called "Raindrop." This is where we will adjust the raindrops behavior. Click on the scrip to open it in your VS Code.  
+Create a public float for the deflect variable, instantiate to 10. Create the private Rigidbody variable to store a reference to the Rigidbody component. 
+
+Inside the Awake function use GetComponent to get the Rigidbody component and attach it to the raindrop and store it in rb.
+
+<img width="600" alt="Screenshot 2024-11-08 at 8 33 52 PM" src="https://github.com/user-attachments/assets/325c1935-46e3-4e23-bb85-2f6a47cfa768">
+
+
+Create a new private method called  OnCollisionEnter that takes in a collision parameter. This method is called when the raindrop collides with another object. Check if the object it collided with has an Enemy component. If the collision object is an enemy, calculate a deflection direction based on the collision normal and current velocity and apply the deflection force by updating the raindrop's velocity.
+
+In a seperate if statement check if the raindrop collided with an object on the "Base" layer. If true, Destroy the raindrop object when it hits the base floor.
+
+<img width="600" alt="Screenshot 2024-11-08 at 8 54 38 PM" src="https://github.com/user-attachments/assets/40cfe3b3-0548-4ef8-b528-525a3991067e">
+
 
 
 
