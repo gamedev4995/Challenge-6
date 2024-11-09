@@ -59,11 +59,11 @@ In a seperate if statement check if the raindrop collided with an object on the 
 
 Add this script to the raindrop prefab. 
 
-<img width="1044" alt="Screenshot 2024-11-08 at 8 56 24 PM" src="https://github.com/user-attachments/assets/8e12e567-a113-4539-a040-a21ebceddc7c">
+<img width="600" alt="Screenshot 2024-11-08 at 8 56 24 PM" src="https://github.com/user-attachments/assets/8e12e567-a113-4539-a040-a21ebceddc7c">
 
 ## Result
 
-![Untitled-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c2228416-0cf2-4117-a275-7189c8c7d40a)
+![Untitled-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c7c6080c-1f6b-4b86-b3ff-e20df7e4ea21)
 
 
 
