@@ -10,7 +10,7 @@ Due to the lengthy project, we decided to divided the proyect into seperate file
 
 [Player](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Player.md)
 
-[Enemies](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Enemies.md)
+[Enemies](Enemies.md)
 
 [Bullet](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Bullet.md)
 
