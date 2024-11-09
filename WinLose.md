@@ -12,7 +12,7 @@ After adding the sphere, in our Materials folder in Assets, we created a new mat
 
 <img width="292" alt="Screenshot 2024-11-07 204224" src="https://github.com/user-attachments/assets/be53c9f3-c127-44ae-b3d3-5b23d5d4b657">
 
-_Note:_ Be sure to position it on front of the Main Camera view.
+___Note:___ Be sure to position it on front of the Main Camera view.
 
 <img width="310" alt="Screenshot 2024-11-07 205142" src="https://github.com/user-attachments/assets/812aaab5-f225-42e0-8b30-2dff84801773">
 
@@ -36,17 +36,21 @@ In this script, we used the following libraries and added the following code in 
 
 <img width="500" alt="Screenshot 2024-11-08 130648" src="https://github.com/user-attachments/assets/2c80c82c-d635-4087-8d38-19926883c3fd">
 
-Then we added each win/lose function. The winning function is the following:
+## Win
+
+We added the following winning function:
 
 <img width="500" alt="Screenshot 2024-11-08 131018" src="https://github.com/user-attachments/assets/e34ae611-ede1-4a19-93af-6c7ae3dbb2e8">
 
-The losing function is the following:
+## Lose
+
+Then the following losing function:
 
 <img width="500" alt="Screenshot 2024-11-08 131030" src="https://github.com/user-attachments/assets/0a77ff4c-6f59-462f-9130-47078a89f9ea">
 
-_Note:_ The 'Lose Floor' layer refers to the layer belonging to the second hidden base floor mentioned in the Arena creation.
+___Note:___ The 'Lose Floor' layer refers to the layer belonging to the second hidden base floor mentioned in the Arena creation.
 
-Result:
+### Result:
 
 [gif]
 
