@@ -42,3 +42,5 @@ Create the Rain function after the Start function, where we will use Random.Rang
 Next inside the scrip folder in your project create a new script called "Raindrop." This is where we will adjust the raindrops behavior. Click on the scrip to open it in your VS Code. 
 
 
+
+
