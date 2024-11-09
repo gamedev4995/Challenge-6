@@ -20,9 +20,32 @@ With the bullet’s look completed, we turned it into a prefab by dragging the o
 
 ---
 
+## Forward Movement
+
+Within the prefab of the bullet, in the inspector tab, we created a script (Add Component > New script) which we named “forwardMovement”. 
+For this script, we added the public variable 'speed' and the following code for the purpose of providing movement for when the bullets are shot out.
+
+<img width="500" alt="Screenshot 2024-10-04 160802" src="https://github.com/user-attachments/assets/0e0f3c9e-8f1a-4f60-95b8-3f25db26401b">
+
+Lastly, in Unity, be sure to change the value of the speed.
+
+<img width="350" alt="Screenshot 2024-10-04 161136" src="https://github.com/user-attachments/assets/eb0a6659-a6c3-46ef-9e1e-607e77ed9873">
+
+---
+
+## Auto Destroy
+
+Again, we added another script named 'AutoDestroy' (Add Component > New Script) to the bullet prefab, to automatically destroy the bullets.
+
+<img width="440" alt="Screenshot 2024-11-08 194122" src="https://github.com/user-attachments/assets/c8540eef-684c-4636-a4cb-1507eb4e0ea1"> 
+
+___Note:___ Make sure to add a delay value in unity; we used 1.5.
+
+---
+
 ## Contact Damager
 
-To start off with the bullet's scripts, we Add Component > New Script and named it Contact Damager. This script will ensure that when you hit an enemy, it takes away health each time a bullet hits them and ultimately causing them to be destroyed.
+To continue with the bullet's scripts, we Add Component > New Script and named it Contact Damager. This script will ensure that when you hit an enemy, it takes away health each time a bullet hits them and ultimately causing them to be destroyed.
 
 <img width="440" alt="Screenshot 2024-11-08 at 7 41 53 PM" src="https://github.com/user-attachments/assets/e2dc81eb-d507-4460-8f63-361d15ad779a"> 
 
@@ -30,7 +53,7 @@ ___Note:___ Make sure to add a damage value in unity; we used 10.
 
 ---
 
-## [other scripts]
+## Wall Detection
 
 We added two more scripts dedicated to the detection of walls for our game mechanics, one for the corner walls and the other for the regular walls.
 
