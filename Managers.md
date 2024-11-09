@@ -106,6 +106,7 @@ The variables we created are a Static instance of RainManager, used for singleto
 
 
 Next we added Add and Remove Rain so that it manages the raindrop list.
+
 <img width="421" alt="Screenshot 2024-11-08 at 10 26 58 PM" src="https://github.com/user-attachments/assets/d8af6811-c9c4-4cbe-8af2-79e3841a169d">
 
 In Add we create the new rain spawner to the waves list. Then we trigger the onChanged event to notify other systems of this change. Remove takes out a specific RainSpawner from the waves list.
