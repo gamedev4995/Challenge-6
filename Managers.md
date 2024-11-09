@@ -53,7 +53,7 @@ Lastly, we added a RemoveRandomFloor() function to randomize the removal of the 
 
 <img width="600" alt="Screenshot 2024-11-08 154659" src="https://github.com/user-attachments/assets/13578bbb-c83f-4b3b-b9ef-86dfff8a665d">
 
-_Note:_ These are the functions that are called in the wall detection scripts.
+___Note:___ These are the functions that are called in the wall detection scripts.
 
 Back in Unity, be sure to drag the parent object containing the floor panels into the slot on the inspector tab.
 
