@@ -20,6 +20,8 @@ With the bullet’s look completed, we turned it into a prefab by dragging the o
 
 ---
 
+# Scripts
+
 ## Forward Movement
 
 Within the prefab of the bullet, in the inspector tab, we created a script (Add Component > New script) which we named “forwardMovement”. 
