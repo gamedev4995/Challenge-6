@@ -56,6 +56,11 @@ In a seperate if statement check if the raindrop collided with an object on the 
 
 <img width="600" alt="Screenshot 2024-11-08 at 8 54 38 PM" src="https://github.com/user-attachments/assets/40cfe3b3-0548-4ef8-b528-525a3991067e">
 
+Add this scrip to the raindrop prefab. 
+
+<img width="1044" alt="Screenshot 2024-11-08 at 8 56 24 PM" src="https://github.com/user-attachments/assets/8e12e567-a113-4539-a040-a21ebceddc7c">
+
+## Result
 
 
 
