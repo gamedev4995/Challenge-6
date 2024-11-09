@@ -20,28 +20,28 @@ Then we duplicated that floor and positioned it at a lower height beneath it. Th
 
 <img width="320" alt="Screenshot 2024-11-07 201944" src="https://github.com/user-attachments/assets/d0d8885e-ce60-49a7-a624-4f4929250c93">
 
-For the trigger to work, we added a box collider (Add Component > Physics > Box Collider)
+For the trigger to work, we added a box collider (Add Component > Physics > Box Collider).
 
 <img width="292" alt="Screenshot 2024-11-05 132207" src="https://github.com/user-attachments/assets/d532b58d-f705-495f-80f6-3f663a12d103">
 
-Checked the 'Is Trigger' box
+Checked the 'Is Trigger' box.
 
 <img width="320" alt="Screenshot 2024-11-08 145159" src="https://github.com/user-attachments/assets/1b8ba85d-0e5b-4fbd-8d4b-76778a191012">
 
-Added a layer 
+Added a layer.
 
 <img width="320" alt="Screenshot 2024-11-08 150030" src="https://github.com/user-attachments/assets/954bee1d-9034-4c69-9c7d-2b8372df4e4c">
 
 ## Arena
 With this template we proceeded to begin creating the arena. 
-_Note:_ the following models come from the Sci-fi Styled Modular Pack that is free to download from the asset store.
+___Note:___ the following models come from the Sci-fi Styled Modular Pack that is free to download from the asset store.
 
 ### Floor
 Starting off with the floor, we grabbed the floor_5 model from the Sci-fi pack and scaled it roughly to the size we wanted.
 
 <img width="292" alt="Screenshot 2024-11-07 142630" src="https://github.com/user-attachments/assets/7f5449c4-27f2-45f2-946d-dfd9cb6cb82d">
 
-_Note:_ Be sure to add a box collider and a layer as well.
+___Note:___ Be sure to add a box collider and a layer as well.
   
 We then proceeded to duplicate this floor panel and placed them side by side until forming a 4x4 area (16 floors).
 
@@ -52,13 +52,13 @@ Next, we placed a corner wall from our asset (model: window_big_corner_plug), po
 
 <img width="292" alt="Screenshot 2024-11-07 142835" src="https://github.com/user-attachments/assets/e26e93d8-0ce6-4855-8da7-1b4325118647">
 
-_Note:_ For extra details (optional), we created a new material, chose our preferred color, and dragged it onto the model.
+___Note:___ For extra details (optional), we created a new material, chose our preferred color, and dragged it onto the model.
 
 Then, we took a wall model from our asset (model: wall_big_no_side_full_LOD0) and scaled it about the size of our corner wall but made them thin enough to fit seven of them for each side of the floor.
 
 <img width="292" alt="Screenshot 2024-11-07 142940" src="https://github.com/user-attachments/assets/90fa771e-05c7-4fe8-b851-508ad182f57a">
 
-_Note:_ Be sure to also add box colliders for both the corner and regular walls as well as individual layers for both.
+___Note:___ Be sure to also add box colliders for both the corner and regular walls as well as individual layers for both.
 
 Then we duplicate the wall for a total of seven walls.
 
