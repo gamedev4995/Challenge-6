@@ -6,16 +6,16 @@ For this challenge, we created a mini game where the player is tasked to destroy
 
 Due to the lengthy project, we decided to divided the proyect into seperate files for easier navigation and access! You can also click each link down below for a quick look:
 
-[Arena](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Arena.md) 
+[Arena](Arena.md) 
 
-[Player](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Player.md)
+[Player](Player.md)
 
 [Enemies](Enemies.md)
 
-[Bullet](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Bullet.md)
+[Bullet](Bullet.md)
 
-[Rain](https://github.com/gamedev4995/Challenge-6/blob/d9d62ec87148971c3fac3c869b4392cc0bbe778a/Rain.md)
+[Rain](Rain.md)
 
-[Managers](https://github.com/gamedev4995/Challenge-6/blob/8a7ea33548cb8f6c51049b4adce7463f479df58f/Managers.md)
+[Managers](Managers.md)
 
-[Win or Lose](https://github.com/gamedev4995/Challenge-6/blob/80a19ea5c0ad733d0ed532a17f1239af8ee56a1b/WinLose.md)
+[Win or Lose](WinLose.md)
