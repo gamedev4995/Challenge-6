@@ -22,6 +22,32 @@ To finish the script, we added an Awake so that it takes into consideration if t
 
 ---
 
+## Spawner
+
+We added an empty object in GameObject > Create Empty and renamed it 'Spawner' to spawn the amount of enemies we want at any given time.
+
+We first added our variables and libraries:
+
+<img width="281" alt="Screenshot 2024-11-08 at 9 27 21 PM" src="https://github.com/user-attachments/assets/3962fcef-9af6-4c42-b8c3-8406ce09b18f">
+
+
+Afterwards we added our Start, Spawn and EndSpawner. The start makes sure to call the spawn and spawn enemies at the given spawnrate. Spawn creates an instance of the prefab at the spawner's position and rotation while EndSpawner stops the spawn.
+
+<img width="476" alt="Screenshot 2024-11-08 at 9 28 12 PM" src="https://github.com/user-attachments/assets/f8e6bf91-e936-4494-92b6-dcd703e016d5">
+
+Make sure you add the enemy variant into the prefab section on Spawner script in Unity.
+
+<img width="278" alt="Screenshot 2024-11-08 at 9 26 38 PM" src="https://github.com/user-attachments/assets/74848e67-8f82-4c22-96c9-f7ddac2e36f4">
+
+### Result 
+
+![spawn-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e5b637ec-a214-499b-8118-c97c02d3ae06)
+
+___Note:___ We duplicated the empty object spawner three times (having a total of four) and positioned the empty object at each conrner to come out the door simulating as if entering the arena.
+
+
+---
+
 ## Floor Manager
 This manager will keep track of the floor list with each panel as well as their initialization and deletion.
 
