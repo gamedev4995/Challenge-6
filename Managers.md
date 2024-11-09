@@ -94,8 +94,6 @@ Back in Unity, be sure to drag the parent object containing the floor panels int
 ## Rain Manager
 Create another empty object by repeating the same process and naming it RainManager. This manager will keep track of the Rain list that appear in the arena. Add a new script component to this empty object and name it 'RainManager.'
 
-<img width="300" alt="Screenshot 2024-11-08 at 10 14 36 PM" src="https://github.com/user-attachments/assets/d962bb7b-08df-44cb-9bc0-330447f25ef5">
-
 <img width="300" alt="Screenshot 2024-11-08 at 10 16 08 PM" src="https://github.com/user-attachments/assets/31e2bf69-375a-4020-bac1-3a7a2d71d5de">
 
 
