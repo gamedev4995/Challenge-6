@@ -103,5 +103,5 @@ Then we added the singleton to avoid the repetition of instances.
 
 In Unity, the score will be visible and automatically increment as each enemy is eliminated.
 
-<img width="300" alt="Screenshot 2024-11-08 210218" src="https://github.com/user-attachments/assets/8297f29f-1f5a-43d3-9982-c9ba835ccb51">
+<img width="450" alt="Screenshot 2024-11-08 210218" src="https://github.com/user-attachments/assets/8297f29f-1f5a-43d3-9982-c9ba835ccb51">
 
