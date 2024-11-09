@@ -20,4 +20,6 @@ Due to the lengthy project, we decided to divided the proyect into seperate file
 
 [Win or Lose](https://github.com/gamedev4995/Challenge-6/blob/80a19ea5c0ad733d0ed532a17f1239af8ee56a1b/WinLose.md)
 
+## Final Result:
 
+[gif i guess jajja]
