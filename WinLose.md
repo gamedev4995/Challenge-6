@@ -12,6 +12,8 @@ After adding the sphere, in our Materials folder in Assets, we created a new mat
 
 <img width="292" alt="Screenshot 2024-11-07 204224" src="https://github.com/user-attachments/assets/be53c9f3-c127-44ae-b3d3-5b23d5d4b657">
 
+We then added a text from Game Object > 3D Object > Text and changed it to read "you win!", meaning you won the game. We also changed its color in the inspector window to a brighter one so it's noticeable and contrasts the lose scene.
+
 ___Note:___ Be sure to position it on front of the Main Camera view.
 
 <img width="310" alt="Screenshot 2024-11-07 205142" src="https://github.com/user-attachments/assets/812aaab5-f225-42e0-8b30-2dff84801773">
@@ -23,6 +25,11 @@ For the other scene, we named it 'LoseScreen' and proceeded to add a cube.
 Then we took the same steps in creating a new material but this time we chose a red color.
 
 <img width="310" alt="Screenshot 2024-11-07 205115" src="https://github.com/user-attachments/assets/b8688ca1-2a16-44b9-b423-e3a980bdc830">
+
+For the text, we added a new text in Game Object > 3D Object > Text and changed it now to read "you lose!", meaning it's game over. Then changed its color in the inspector window to a darker one so it's noticeable and contrasts the win scene.
+
+<img width="739" alt="Screenshot 2024-11-08 at 10 23 27 PM" src="https://github.com/user-attachments/assets/f9702dda-f3ca-4f85-813e-12de20e621ad">
+
 
 Since we want our scenes to be included into the game once the player wins or loses, we added them by going to File > build settings and then dragging our lose and win scenes into the box.
 
