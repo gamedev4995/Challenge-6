@@ -12,15 +12,14 @@ After adding the sphere, in our Materials folder in Assets, we created a new mat
 
 <img width="292" alt="Screenshot 2024-11-07 204224" src="https://github.com/user-attachments/assets/be53c9f3-c127-44ae-b3d3-5b23d5d4b657">
 
-We then added a text from Game Object > 3D Object > Text and changed it to read "you win!", meaning you won the game. We also changed its color in the inspector window to a brighter one so it's noticeable and contrasts the lose scene.
-
-
-<img width="300" alt="Screenshot 2024-11-08 at 10 27 22 PM" src="https://github.com/user-attachments/assets/640ca951-a153-403c-9c5c-ef2374d96853">
-
-
 ___Note:___ Be sure to position it on front of the Main Camera view.
 
 <img width="310" alt="Screenshot 2024-11-07 205142" src="https://github.com/user-attachments/assets/812aaab5-f225-42e0-8b30-2dff84801773">
+
+We then added a text from Game Object > 3D Object > Text and changed it to read "you win!", meaning you won the game. We also changed its color in the inspector window to a brighter one so it's noticeable and contrasts the lose scene.
+
+<img width="300" alt="Screenshot 2024-11-08 at 10 27 22 PM" src="https://github.com/user-attachments/assets/640ca951-a153-403c-9c5c-ef2374d96853">
+
 
 For the other scene, we named it 'LoseScreen' and proceeded to add a cube.
 
@@ -47,13 +46,9 @@ In this script, we used the following libraries and added the following code in 
 
 <img width="500" alt="Screenshot 2024-11-08 130648" src="https://github.com/user-attachments/assets/2c80c82c-d635-4087-8d38-19926883c3fd">
 
-## Win
-
 We added the following winning function:
 
 <img width="700" alt="Screenshot 2024-11-08 131018" src="https://github.com/user-attachments/assets/e34ae611-ede1-4a19-93af-6c7ae3dbb2e8">
-
-## Lose
 
 Then the following losing function:
 
