@@ -14,6 +14,10 @@ After adding the sphere, in our Materials folder in Assets, we created a new mat
 
 We then added a text from Game Object > 3D Object > Text and changed it to read "you win!", meaning you won the game. We also changed its color in the inspector window to a brighter one so it's noticeable and contrasts the lose scene.
 
+
+<img width="745" alt="Screenshot 2024-11-08 at 10 27 22 PM" src="https://github.com/user-attachments/assets/640ca951-a153-403c-9c5c-ef2374d96853">
+
+
 ___Note:___ Be sure to position it on front of the Main Camera view.
 
 <img width="310" alt="Screenshot 2024-11-07 205142" src="https://github.com/user-attachments/assets/812aaab5-f225-42e0-8b30-2dff84801773">
