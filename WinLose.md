@@ -50,7 +50,3 @@ Then the following losing function:
 
 ___Note:___ The 'Lose Floor' layer refers to the layer belonging to the second hidden base floor mentioned in the Arena creation.
 
-### Result:
-
-[gif]
-
