@@ -40,13 +40,13 @@ In this script, we used the following libraries and added the following code in 
 
 We added the following winning function:
 
-<img width="600" alt="Screenshot 2024-11-08 131018" src="https://github.com/user-attachments/assets/e34ae611-ede1-4a19-93af-6c7ae3dbb2e8">
+<img width="700" alt="Screenshot 2024-11-08 131018" src="https://github.com/user-attachments/assets/e34ae611-ede1-4a19-93af-6c7ae3dbb2e8">
 
 ## Lose
 
 Then the following losing function:
 
-<img width="600" alt="Screenshot 2024-11-08 131030" src="https://github.com/user-attachments/assets/0a77ff4c-6f59-462f-9130-47078a89f9ea">
+<img width="400" alt="Screenshot 2024-11-08 131030" src="https://github.com/user-attachments/assets/0a77ff4c-6f59-462f-9130-47078a89f9ea">
 
 ___Note:___ The 'Lose Floor' layer refers to the layer belonging to the second hidden base floor mentioned in the Arena creation.
 
