@@ -1,6 +1,7 @@
 ## Rain
 
-To make our mini game more interesting let’s add rain. To do this first create a 3D object sphere that is as big as a beach ball (Use the player model for size comparison). This will be our raindrop. 
+To make our mini game more interesting let’s add rain. To do this first create a 3D object sphere that is as big as a beach ball (Use the player model for size comparison). This will be our raindrop.
+
 <img width="600" alt="Screenshot 2024-11-08 at 6 49 19 PM" src="https://github.com/user-attachments/assets/5ec2e50a-7452-46cc-9fb7-1ae7da617bff">
 
 
@@ -56,7 +57,7 @@ In a seperate if statement check if the raindrop collided with an object on the 
 
 <img width="600" alt="Screenshot 2024-11-08 at 8 54 38 PM" src="https://github.com/user-attachments/assets/40cfe3b3-0548-4ef8-b528-525a3991067e">
 
-Add this scrip to the raindrop prefab. 
+Add this script to the raindrop prefab. 
 
 <img width="1044" alt="Screenshot 2024-11-08 at 8 56 24 PM" src="https://github.com/user-attachments/assets/8e12e567-a113-4539-a040-a21ebceddc7c">
 
